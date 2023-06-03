@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox alignment="CENTER" prefHeight="743.0" prefWidth="451.0" spacing="20.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/18" fx:controller="com.example.test1.HelloController">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+    </padding>
+   <Label fx:id="welcomeText" alignment="CENTER" prefHeight="614.0" prefWidth="378.0" text="Label" />
+    <Button onAction="#onHelloButtonClick" text="Run" textFill="#7648ff" />
+   <Button mnemonicParsing="false" onAction="#viewAllFuelQueues" text="Queues" textAlignment="CENTER" textFill="#7648ff" />
+   <Button mnemonicParsing="false" onAction="#button" text="Wainting Queue" textFill="#7648ff" />
+</VBox>

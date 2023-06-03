@@ -1,0 +1,14 @@
+Queue 1 : 
+1 : qq, qq, 1, 1
+2 : bb, bb, 1, 1
+Queue 2 : 
+1 : qq, qq, 1, 1
+2 : gg, gg, 1, 1
+Queue 3 : 
+1 : ee, ee, 1, 1
+Queue 4 : 
+1 : r, rr, 1, 1
+Queue 5 : 
+1 : ff, ff, 2, 2
+
+Remaining Fuel Stock : 6589
